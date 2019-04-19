@@ -1,2 +1,3 @@
-# dubbo-demo
-Dubbo入门实战
+## dubbo-demo
+
+地址：[http://localhost:9091/sayHello/HelloWorld](http://localhost:9091/sayHello/HelloWorld)
